@@ -1,6 +1,6 @@
 {
   "prefixes": [
-    { "ipv4Prefix": "13.108.0.0/14", "region": "US", "service": "Salesforce" },
-    { "ipv4Prefix": "52.232.64.0/20", "region": "EMEA", "service": "Salesforce" }
+    { "ipv4Prefix": "10.1.0.0", "region": "US", "service": "Salesforce" },
+    { "ipv4Prefix": "10.2.0.0", "region": "EMEA", "service": "Salesforce" }
   ]
 }
