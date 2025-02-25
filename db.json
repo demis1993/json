@@ -1,6 +1,6 @@
 {
-  "users": [
-    { "id": 1, "name": "Alice" },
-    { "id": 2, "name": "Bob" }
+  "prefixes": [
+    { "ipv4Prefix": "13.108.0.0/14", "region": "US", "service": "Salesforce" },
+    { "ipv4Prefix": "52.232.64.0/20", "region": "EMEA", "service": "Salesforce" }
   ]
 }
